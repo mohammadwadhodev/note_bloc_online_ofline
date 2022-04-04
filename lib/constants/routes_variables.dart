@@ -1,0 +1,1 @@
+const String kViewData = '/view_data';
